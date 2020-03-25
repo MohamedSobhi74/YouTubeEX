@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B0D5D0</color>
+    <color name="colorPrimaryDark">#6194BC</color>
+    <color name="mainBarColor">#DF3A53</color>
+    <color name="tabColor">#2196F3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="grayColor">#888</color>
+    <color name="redColor">#AEFD0000</color>
+</resources>
